@@ -12,8 +12,8 @@
     "next": "14.2.2",
     "react": "^18",
     "react-dom": "^18",
-    
-    "react-icons": "^version-number"
+
+    "react-icons": "^4.x.x" 
   },
   "devDependencies": {
     "@types/node": "^20",
