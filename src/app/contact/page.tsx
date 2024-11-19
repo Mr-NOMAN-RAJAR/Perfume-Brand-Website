@@ -4,7 +4,7 @@ export default function Contact() {
       <div className="max-w-4xl w-full bg-gray-800 rounded-lg shadow-lg p-8">
         <h2 className="text-3xl font-bold mb-6 text-center">Contact Us</h2>
         <p className="text-center mb-8">
-          Have questions or inquiries? We'd love to hear from you. Fill out the form below, and we'll get back to you as soon as possible.
+          Have questions or inquiries? Wed love to hear from you. Fill out the form below, and we&apos;ll get back to you as soon as possible.
         </p>
         <form className="space-y-6">
           <div>
